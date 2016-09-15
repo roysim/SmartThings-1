@@ -1,5 +1,5 @@
 metadata {
-    definition (name: "Somfy Z-Wave Shades", namespace: "ash", author: "Ash Raj") {
+    definition (name: "somfy_shades", namespace: "roysim", author: "Ash Raj") {
         capability "Switch Level"
         capability "Switch"
 
